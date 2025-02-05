@@ -46,6 +46,8 @@ Hey there! I'm a passionate **Full Stack Web Developer** with a knack for crafti
 
 📰 **[Daily Events](https://dailyevents.in/)** – Your go-to platform for the latest in tech, lifestyle & more! 📢  
 
+🔗 **[URL Shortner](https://urlshortner.pro/)** – A smart tool for creating short URLs and QR codes in seconds! ✨
+
 ---
 
 ## 📬 Let's Connect & Collaborate
